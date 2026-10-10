@@ -34,52 +34,6 @@ I build software around real business workflows and operational problems, includ
 
 ---
 
-## Engineering Focus
-
-- Backend engineering and REST API design
-- Enterprise application development
-- Relational database design with PostgreSQL and Entity Framework Core
-- Business domain modeling and workflow implementation
-- Authentication and authorization
-- Maintainable software architecture
-- AI-powered automation
-
----
-
-## Featured Projects
-
-### Manufacturing ERP
-[ADD PROJECT DESCRIPTION]
-
-**Technologies:** [ADD TECHNOLOGIES]
-**Repository:** [ADD GITHUB LINK]
-
-### SkillBridge
-[ADD PROJECT DESCRIPTION]
-
-**Technologies:** [ADD TECHNOLOGIES]
-**Repository:** [ADD GITHUB LINK]
-
-### Fashion Store Inventory Management System
-[ADD PROJECT DESCRIPTION]
-
-**Technologies:** [ADD TECHNOLOGIES]
-**Repository:** [ADD GITHUB LINK]
-
-### TMS API
-[ADD PROJECT DESCRIPTION]
-
-**Technologies:** [ADD TECHNOLOGIES]
-**Repository:** [ADD GITHUB LINK]
-
-### QueueFlow
-[ADD PROJECT DESCRIPTION]
-
-**Technologies:** [ADD TECHNOLOGIES]
-**Repository:** [ADD GITHUB LINK]
-
----
-
 ## Software for Real Business Operations
 
 My work centers on operational software: systems that model how a business actually runs. That includes inventory tracking, manufacturing processes, service and queue management, and enterprise workflows. I focus on getting the domain model, data design, and business rules right, then exposing them through clean, well-structured APIs.
