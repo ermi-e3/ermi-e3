@@ -1,4 +1,4 @@
-# [Ermiyas Eshetu]
+# Ermiyas Eshetu
 
 **Backend / Full-Stack Engineer**
 
@@ -111,8 +111,8 @@ I'm working toward **Senior Backend Engineer**, with an emphasis on engineering 
 
 ## Contact
 
-- **Email:** [ermieshetu0@gmail.com]
-- **Location:** [Addis Ababa, Ethiopia ]
-- **LinkedIn:** [www.linkedin.com/in/ermiyaseshetu]
-- **Portfolio:** [e3.com]
+- **Email:** ermieshetu0@gmail.com
+- **Location:** Addis Ababa, Ethiopia 
+- **LinkedIn:** www.linkedin.com/in/ermiyaseshetu
+- **Portfolio:** e3.com
 - **Freelancer Profile:** [FREELANCER PROFILE URL]
